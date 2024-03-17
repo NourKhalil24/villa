@@ -1,0 +1,50 @@
+.BestApartment {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 60px;
+    display: inline-block;
+    width: 20%;
+}
+.BestApartment h6{
+    color: #ee626b;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.BestApartment h2{
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-top: 20px;
+    line-height: 56px;
+}
+.BestApartment .secondH2{
+    color: #f35525;
+    background-color: #fafafa;
+    outline: none;
+    border-top-left-radius: var(--bs-accordion-inner-border-radius);
+    border-top-right-radius: var(--bs-accordion-inner-border-radius);
+    border-bottom: 1px solid #eaeaea;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 60px;
+    margin-left: 10px;
+    margin-right: 10px;
+    --bs-accordion-border-radius: 10px;
+    --bs-accordion-inner-border-radius: 10px;
+    --bs-accordion-bg: #fafafa;
+    --bs-accordion-border-color: none;
+    border: none !important;
+
+}
+.hhh{
+    padding: var(--bs-accordion-body-padding-y) var(--bs-accordion-body-padding-x);
+    margin-left: 10px;
+    margin-right: 10px;
+    --bs-accordion-border-radius: 10px;
+    --bs-accordion-inner-border-radius: 10px;
+    --bs-accordion-bg: #fafafa;
+    --bs-accordion-border-color: none;
+    border: none !important;
+
+}
